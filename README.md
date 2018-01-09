@@ -1,3 +1,5 @@
+# Project discontinued, go to [SVExDB-Lite](https://github.com/Cu3PO42/SVExDB-Lite)
+
 # PSRedditTSVThreadsDump
 PowerShell script to dump all active TSV threads from /r/SVExchange
 
